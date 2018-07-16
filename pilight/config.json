@@ -1,5 +1,5 @@
 {
-  "image": "pschmitt/hassio-addon-{arch}-pilight",
+  "image": "pschmitt/hassio-addon-amd64-pilight",
   "arch": ["amd64", "aarch64", "i386", "armhf"],
   "name": "pilight",
   "version": "1.0",
